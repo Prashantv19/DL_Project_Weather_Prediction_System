@@ -75,6 +75,9 @@ The target variable **`weather`** is label-encoded before training.
 ## 📊 Results
 
 The trained model achieved **~82% accuracy**, effectively classifying weather types like Rain, Drizzle, Fog, Sun, and Snow.
+---
+## Live Link
+https://weatherpredictionwebapp0000.streamlit.app
 
 ---
 
